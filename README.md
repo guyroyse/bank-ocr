@@ -7,7 +7,7 @@ You work for a bank, which has recently purchased an ingenious machine to assist
 ```
     _  _     _  _  _  _  _
   | _| _||_||_ |_   ||_||_|
-  ||_  _|  | _||_|  ||_| _|
+  ||_  _|  | _||_|  ||_|  |
 
 ```
 
