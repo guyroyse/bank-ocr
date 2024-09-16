@@ -13,7 +13,7 @@ You work for a bank, which has recently purchased an ingenious machine to assist
 
 Each entry is 4 lines long, and each line has 27 characters. The first 3 lines of each entry contain an account number written using pipes and underscores, and the fourth line is blank. Each account number should have 9 digits, all of which should be in the range 0-9.
 
-Your first task is to write a program that can take this file and parse it into actual account numbers.
+Your first task is to write a program that can take this file and parse it into actual account numbers. If a digit is illegible, replace it with a question mark.
 
 ## User Story 2
 
